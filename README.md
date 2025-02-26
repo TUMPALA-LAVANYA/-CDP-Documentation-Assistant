@@ -1,4 +1,3 @@
-# -CDP-Documentation-Assistant
 # CDP Documentation Assistant
 
 A modern, interactive chatbot interface designed to help users navigate and understand Customer Data Platform (CDP) documentation. This application provides instant answers to questions about Segment, mParticle, Lytics, and Zeotap CDPs.
@@ -45,6 +44,7 @@ A modern, interactive chatbot interface designed to help users navigate and unde
    ```bash
    npm run build
    ```
+
 ## Example Questions
 
 - "How do I set up a new source in Segment?"
@@ -54,6 +54,8 @@ A modern, interactive chatbot interface designed to help users navigate and unde
 - "Compare audience creation between Segment and Lytics"
 
 ## Project Structure
+
+```
 src/
 ├── components/        # React components
 ├── types/            # TypeScript type definitions
@@ -78,8 +80,3 @@ MIT License - feel free to use this project for your own purposes.
 - Documentation provided by Segment, mParticle, Lytics, and Zeotap
 - Icons by [Lucide](https://lucide.dev/)
 - UI inspiration from modern chat applications
-
-https://musical-hotteok-627459.netlify.app/
-
-
-
